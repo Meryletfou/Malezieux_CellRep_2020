@@ -4,7 +4,7 @@ Created on Thu Sep  6 10:23:49 2018
 
 @author: Ashley
 """
-
+TEST MERYL 
 
 # Manuscript Malezieux, Kees, Mulle submitted to eLife
 # initial processing of data; brain state detection
